@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#! /usr/bin/env bash
 
 cd ~
 if [ ! -d "reon" ]; then 
